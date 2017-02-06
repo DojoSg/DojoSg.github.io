@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
-[Reference](https://guides.github.com/features/pages/)
+[Reference 1](https://guides.github.com/features/pages/)
+
+[Reference 2](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
 You can use the [editor on GitHub](https://github.com/DojoSg/DojoSg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
